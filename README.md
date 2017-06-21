@@ -1,5 +1,7 @@
 # Raspberry Pi Documentation
 
+[![Build Status](https://travis-ci.org/raspberrypi/documentation.svg?branch=master)](https://travis-ci.org/raspberrypi/documentation)
+
 This is the official documentation for the Raspberry Pi, written by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) with community contributions.
 
 ## Contents
@@ -20,8 +22,6 @@ This is the official documentation for the Raspberry Pi, written by the [Raspber
     - Information about the recommended operating system for Raspberry Pi
 - [Hardware](hardware/README.md)
     - Technical specifications about the Raspberry Pi hardware and the camera module
-- [Troubleshooting](troubleshooting/README.md)
-    - Got a problem with your Pi? Start here
 
 ## Contributions
 
